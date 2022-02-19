@@ -1,0 +1,18 @@
+﻿To Do:
+Version 1:
+ensure hard links are not considered
+make a more simplified interface
+use tree view to both group and list results
+title shows progress too (1%... 100%)
+registration system
+auto updates
+
+Version 2:
+Stay-resident version (sys tray) that notifies the user of duplicates when they are placed on the file system
+have dialog for content comparison of multiple (>2) selected results
+set thread priority
+restructure engine
+allow for matching on more FileSystemInfo attributes
+restructure the whole search engine/model to support additional matching criteria using Dictionary<> of multiple attributes
+allow for sort on the results columns
+improved licensing that uses RSA
